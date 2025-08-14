@@ -1,2 +1,0 @@
-# Kategori resimleri buraya gelecek
-# Bu dosya categories/ klasörünü oluşturmak için geçici placeholder'dır

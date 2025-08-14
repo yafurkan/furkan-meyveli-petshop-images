@@ -1,2 +1,0 @@
-# Blog resimleri buraya gelecek
-# Bu dosya blog/ klasörünü oluşturmak için geçici placeholder'dır
