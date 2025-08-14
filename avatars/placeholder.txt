@@ -1,0 +1,2 @@
+# Kullanıcı avatar resimleri buraya gelecek
+# Bu dosya avatars/ klasörünü oluşturmak için geçici placeholder'dır
